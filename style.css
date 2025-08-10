@@ -17,10 +17,6 @@ header {
     align-items: center;
 }
 
-header .logo h1 {
-    font-size: 24px;
-    font-weight: bold;
-}
 
 /* Estilo do Hero Section */
 .hero {
