@@ -31,11 +31,7 @@ header {
 
 
 
-/* Estilo da seção de conteúdo */
-.content {
-    padding: 50px 20px;
-    text-align: center;
-}
+
 
 .cards {
     display: grid;
