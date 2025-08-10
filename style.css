@@ -26,16 +26,6 @@ header .logo h1 {
 
 
 
-header nav ul li {
-    margin-left: 20px;
-}
-
-header nav ul li a {
-    text-decoration: none;
-    font-size: 16px;
-    transition: color 0.3s;
-}
-
 /* Estilo do Hero Section */
 .hero {
     background-image: url(https://www.green4t.com/wp-content/uploads/2023/03/tecnologia-sustetentabilidade-no-campo.jpg); /* Imagem relacionada ao campo e tecnologia */
