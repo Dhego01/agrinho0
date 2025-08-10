@@ -17,7 +17,6 @@ header {
     align-items: center;
 }
 
-
 /* Estilo do Hero Section */
 .hero {
     background-image: url(https://www.green4t.com/wp-content/uploads/2023/03/tecnologia-sustetentabilidade-no-campo.jpg); /* Imagem relacionada ao campo e tecnologia */
@@ -25,15 +24,10 @@ header {
     background-position: center;
     text-align: center;
     padding: 80px 20px;
-    color: white;
     font-size: 24px;
     font-weight: bold;
 }
 
-.hero h2 {
-    font-size: 36px;
-    margin-bottom: 20px;
-}
 
 .hero .cta {
     background-color: #ff9800;
