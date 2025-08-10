@@ -30,17 +30,12 @@ header {
 
 
 .hero .cta {
-    background-color: #ff9800;
     padding: 10px 20px;
     text-decoration: none;
     color: white;
     border-radius: 5px;
     font-size: 18px;
-    transition: background-color 0.3s;
-}
-
-.hero .cta:hover {
-    background-color: #f57c00;
+    transition:  0.3s;
 }
 
 /* Estilo da seção de conteúdo */
